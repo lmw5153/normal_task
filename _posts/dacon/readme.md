@@ -3,7 +3,10 @@
 ---
 ### 대회 내용
 - https://www.dacon.io/competitions/official/236222/overview/description
-  
+
+![image](https://github.com/user-attachments/assets/57440632-7d8e-4918-a1b4-f44a55b5fca3)
+
+### 결과
 ![image](https://github.com/user-attachments/assets/4e534bb6-3447-4fc5-a8ec-4f0d0b0c27d7)
 
 ### 활동 내용
